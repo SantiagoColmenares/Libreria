@@ -34,22 +34,22 @@ body{
 
 .header{
     grid-area: header;
-    background-color: aqua;
+    /* background-color: aqua; */
 }
 
 .menu{
     grid-area: menu;
-    background-color: tomato;
+    /* background-color: tomato; */
 }
 
 .main{
     grid-area: main;
-    background-color: green;
+    /* background-color: green; */
 }
 
 .footer{
     grid-area: footer;
-    background-color: teal;
+    /* background-color: teal; */
 }
 
 @media(min-width: 600px){
